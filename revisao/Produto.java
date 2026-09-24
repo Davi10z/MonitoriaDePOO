@@ -1,4 +1,5 @@
 // Tudo comentado onde tem erro (eu acho)!
+package revisao;
 
 public class Produto {
     public String nome;
